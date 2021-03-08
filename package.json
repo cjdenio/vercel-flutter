@@ -1,0 +1,14 @@
+{
+  "name": "vercel-flutter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cjdenio/vercel-flutter.git",
+  "author": "Caleb Denio <cjdenio44@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
